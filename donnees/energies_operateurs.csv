@@ -1,0 +1,6 @@
+operateur,pipeline,frequence_MHz,energie_totale_nJ_op_conditionnelle,energie_dynamique_pJ_op_conditionnelle
+addition_entiere,1,100,4.414300,11.500000
+addition_entiere,2,337.27,1.455095,16.366709
+addition_entiere,4,210.7,2.260228,18.557190
+addition_flottante,14,100,4.480900,89.700000
+addition_flottante,14,183.82,2.542270,89.652921

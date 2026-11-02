@@ -1,0 +1,23 @@
+{
+  "ecarts_des_valeurs_arrondies": [
+    {
+      "fichier": "multiplication.csv",
+      "pipeline": "2",
+      "total_moins_somme_mW": "0.01"
+    }
+  ],
+  "courant_reference_A": "0.6",
+  "tension_nominale_V": "5",
+  "puissance_nominale_W": "3.0",
+  "debit_nominal_images_s": "59.523810",
+  "duree_trame_ms": "16.800000",
+  "energie_nominale_mJ_image": "50.400000",
+  "conclusion_arrondie_mJ_image": "environ 50",
+  "puissance_instantanee_min_W": "3.1175040",
+  "puissance_instantanee_max_W": "3.1530204",
+  "moyenne_arithmetique_quatre_instantanes_W": "3.134313875",
+  "duree_filtre_isole_100MHz_ms_conditionnelle": "1.176000",
+  "energie_filtre_isole_mJ_conditionnelle": "0.504339",
+  "condition_filtre": "un pixel par cycle a 100 MHz valides et puissance conforme a cette activite",
+  "statut_parallele_et_sans_DSP": "aucune puissance mesuree disponible"
+}

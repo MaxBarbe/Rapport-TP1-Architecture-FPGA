@@ -1,0 +1,4 @@
+pipeline,frequence_MHz,ALM,registres,DSP,puissance_totale_mW,puissance_dynamique_coeur_mW,puissance_statique_coeur_mW,puissance_ES_mW
+1,100,24,0,3,532.58,8.23,413.13,111.22
+2,,24,0,3,530.84,6.5,413.11,111.22
+4,,46,161,3,532.81,8.72,413.13,110.96

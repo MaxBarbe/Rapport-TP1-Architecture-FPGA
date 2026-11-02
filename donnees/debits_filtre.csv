@@ -1,0 +1,4 @@
+debit_images_s,pixels_image,frequence_utile_minimale_MHz,duree_image_ms
+30,117600,3.528000,33.333333
+60,117600,7.056000,16.666667
+100,117600,11.760000,10.000000

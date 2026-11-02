@@ -1,0 +1,4 @@
+pipeline,frequence_MHz,puissance_totale_mW,puissance_dynamique_coeur_mW,puissance_statique_coeur_mW,puissance_ES_mW
+1,100,441.43,1.15,412.36,27.92
+2,337.27,490.76,5.52,412.77,72.47
+4,210.7,476.23,3.91,412.65,59.67
